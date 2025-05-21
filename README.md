@@ -24,11 +24,11 @@ Build and deploy a feature-rich Solana Token Creator DApp with advanced fee coll
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/solana-token-creator-dapp-with-advanced-fee-collection)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/O-fhHfBUpqw?si=DL_hNl9LeS9uGU4s)
 
 #### Deploying Dapp
 
@@ -64,8 +64,8 @@ If you download the final source code then you can follow the following instruct
 
 ```
   WATCH: Setup & Demo Of Project
-  CODE URL:
-  VIDEO:
+  CODE URL: https://www.theblockchaincoders.com/sourceCode/solana-token-creator-dapp-with-advanced-fee-collection
+  VIDEO: https://youtu.be/O-fhHfBUpqw?si=DL_hNl9LeS9uGU4s
 ```
 
 #### Install Vs Code Editor
